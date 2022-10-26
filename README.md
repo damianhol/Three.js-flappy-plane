@@ -1,4 +1,4 @@
-JavaScript & Three.JS game based on Flappy Bird.
+Three.JS game based on Flappy Bird.
 Works on desktop & mobile.
 WebGLRenderer was used.
 
